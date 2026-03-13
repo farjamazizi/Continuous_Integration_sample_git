@@ -6,3 +6,8 @@ def more_hello():
 def more_goodbye():
 
     return "bye"
+
+
+def add(x, y):
+
+    return int(x + y)
